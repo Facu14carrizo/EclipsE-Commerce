@@ -19,7 +19,7 @@
 
 ## Instalacion y Lanzamiento
 
-- **-->** Clonar Repositorio con GitBush usando **git clone ""**
+- **-->** Clonar Repositorio con GitBush usando **git clone "https://github.com/Facu14carrizo/EclipsE-Commerce.git"**
 - **-->** En la terminal ejecutar **npm install** para instalar las dependencias.
 - **-->** Utiliza **ng serve** para compilar e inicializar la aplicación Angular en un servidor de desarrollo.
 - **-->** Visualizar en **http://localhost:4200**
