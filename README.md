@@ -17,5 +17,11 @@
 - **React Router**: Para la navegación.
 - **CSS**: Para el estilo visual.
 
+## Instalacion y Lanzamiento
+**-->** Clonar Repositorio con GitBush usando **git clone ""**
+**-->** En la terminal ejecutar **npm install** para instalar las dependencias.
+**-->** Utiliza **ng serve** para compilar e inicializar la aplicación Angular en un servidor de desarrollo. 
+**-->** Visualizar en **http://localhost:4200**
+
 ## Licencia
 Este proyecto está bajo la Licencia MIT.
